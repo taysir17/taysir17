@@ -48,9 +48,6 @@
 **Technologies:** Angular, Node.js  
 *Secure, real-time online voting platform with user registration, candidate profiles, and live result tracking.*
 
-### 🛒 [3DEEZ](https://github.com/taissir/3DEEZ)  
-**Technologies:** Angular, JSON  
-*E-commerce platform for custom 3D-printed products with dynamic previews and efficient checkout.*
 
 ### 📚 [Library Management System](https://github.com/taissir/Library-Management-System)  
 **Technologies:** Node.js, SOAP  
