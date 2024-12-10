@@ -49,7 +49,7 @@
 
 ### Deployment & DevOps
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![SSL](https://img.shields.io/badge/SSL-Certificate-4CAF50?style=for-the-badge&logo=ssl&logoColor=white)
+![SSL](https://img.shields.io/badge/SSL-4CAF50?style=for-the-badge&logo=ssl&logoColor=white)
 ![Reverse Proxy](https://img.shields.io/badge/Reverse_Proxy-FFD700?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
