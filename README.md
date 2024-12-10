@@ -31,18 +31,26 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frameworks & Libraries
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Android Studio (Java)](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ### Tools & Technologies
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Development Tools:** Git, Figma, VS Code
 - **Methodologies:** Agile (Scrum), Clean Architecture, Microservices, Service-Oriented Architecture
+
+### Deployment & DevOps
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![SSL](https://img.shields.io/badge/SSL-Certificate-4CAF50?style=for-the-badge&logo=ssl&logoColor=white)
+![Reverse Proxy](https://img.shields.io/badge/Reverse_Proxy-FFD700?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
@@ -93,3 +101,8 @@
 
 ## ✨ Fun Fact
 > "First, solve the problem. Then, write the code." – John Johnson
+
+---
+
+## 📜 Poetic Note
+> *"L'informatique, comme la poésie, demande de la logique et une touche de créativité pour toucher l'âme et construire le monde."*
