@@ -105,4 +105,4 @@
 ---
 
 ## 📜 Poetic Note
-> *"L'informatique, comme la poésie, demande de la logique et une touche de créativité pour toucher l'âme et construire le monde."*
+> *"Rien n’est plus puissant qu’une idée dont l’heure est venue"* – Victor Hugo
