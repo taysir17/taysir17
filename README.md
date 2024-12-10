@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=2465F7&center=true&vCenter=true&width=600&lines=Hi%F0%9F%91%8B%2C+I'm+Taissir;Software+Engineer+and+Tech+Enthusiast;Passionate+About+Coding+%26+Innovation" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=2465F7&center=true&vCenter=true&width=600&lines=Hi%F0%9F%91%8B%2C+I'm+Taissir; Software+Engineer+and+Tech+Enthusiast; Passionate+About+Coding+%26+Innovation" alt="Typing SVG" /></a>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=taissir&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
