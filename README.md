@@ -101,7 +101,7 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=taysir17&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=taysir17&theme=gruvbox" alt="GitHub Streak" />
     <img 
@@ -109,7 +109,13 @@
         alt="Top Languages" 
         width="290" 
     />
-</p>
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img 
+            src="https://github-profile-trophy.vercel.app/?username=taysir17&theme=darkhub&no-frame=true&column=8&margin-w=15&margin-h=15" 
+            alt="Trophy Showcase" 
+        />
+    </a>
+</div>
 
 
 ---
