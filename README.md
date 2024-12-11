@@ -120,4 +120,59 @@
 ---
 
 ## 📝 Personal Note
-Je suis Taissir, une âme ambitieuse, Étudiante en informatique, curieuse et sérieuse. En troisième année, je construis mon chemin, Avec passion et envie d’un bel lendemain. Entre les codes et les mélodies, Je trouve un équilibre, une belle harmonie. Angular, Django, Python sont mes outils, Avec eux, je crée des projets remplis de vie. Du front au back, je relie les idées, Pour des solutions utiles et bien pensées. Quand je joue de la guitare ou de l’orgue, Je laisse ma créativité prendre de l’audace. Quand je suis stressée, j’écris des poèmes, Mes mots traduisent mes pensées et mes thèmes. Dans le sport, je trouve une autre énergie, Douée en football, je joue avec stratégie. La natation m’apporte force et sérénité, Deux passions qui équilibrent mes journées. L’innovation est au cœur de mes rêves, Créer des drones pour transporter ce qui est précieux, Un robot pour aider dans les urgences médicales, Imaginer un futur plus humain, plus égal. Je serai ingénieure, c’est ma destinée, Avec des idées pour un monde à réinventer. Un jour, j’aurai ma propre société, Où l’innovation et l’humain seront au centre de ma réalité. Mes expériences ont forgé mes compétences, Chez Ernst & Young, j’ai fait la différence. Applications web et sécurisation, Chaque tâche a renforcé ma passion. Je suis une entrepreneure dans l’âme, Avec le PEEC, mes projets prennent forme. Hackathons, défis, camps d’été, J’ai appris à innover et à collaborer. Mes certifications montrent mes efforts, Scrum, Postman, Java, elles ouvrent des portes. Que ce soit en français ou en lignes de code, J’exprime ma créativité avec méthode. Ma vie associative enrichit mon parcours, Google Club, journalisme, et bien d’autres détours. Leadership, adaptabilité, et esprit d’équipe, Ce sont mes forces, dans chaque défi, je m’applique. Je suis Taissir, curieuse et déterminée, Prête à créer, à apprendre et à innover. Avec des projets qui illuminent mon avenir, Je suis prête à réussir et à accomplir.
+Je suis Taissir, une âme ambitieuse,  
+Étudiante en informatique, curieuse et sérieuse.  
+En troisième année, je construis mon chemin,  
+Avec passion et envie d’un bel lendemain.  
+
+Entre les codes et les mélodies,  
+Je trouve un équilibre, une belle harmonie.  
+Angular, Django, Python sont mes outils,  
+Avec eux, je crée des projets remplis de vie.  
+Du front au back, je relie les idées,  
+Pour des solutions utiles et bien pensées.  
+
+Quand je joue de la guitare ou de l’orgue,  
+Je laisse ma créativité prendre de l’audace.  
+Quand je suis stressée, j’écris des poèmes,  
+Mes mots traduisent mes pensées et mes thèmes.  
+
+Dans le sport, je trouve une autre énergie,  
+Douée en football, je joue avec stratégie.  
+La natation m’apporte force et sérénité,  
+Deux passions qui équilibrent mes journées.  
+
+L’innovation est au cœur de mes rêves,  
+Créer des drones pour transporter ce qui est précieux,  
+Un robot pour aider dans les urgences médicales,  
+Imaginer un futur plus humain, plus égal.  
+
+Je serai ingénieure, c’est ma destinée,  
+Avec des idées pour un monde à réinventer.  
+Un jour, j’aurai ma propre société,  
+Où l’innovation et l’humain seront au centre de ma réalité.  
+
+Mes expériences ont forgé mes compétences,  
+Chez Ernst & Young, j’ai fait la différence.  
+Applications web et sécurisation,  
+Chaque tâche a renforcé ma passion.  
+
+Je suis une entrepreneure dans l’âme,  
+Avec le PEEC, mes projets prennent forme.  
+Hackathons, défis, camps d’été,  
+J’ai appris à innover et à collaborer.  
+
+Mes certifications montrent mes efforts,  
+Scrum, Postman, Java, elles ouvrent des portes.  
+Que ce soit en français ou en lignes de code,  
+J’exprime ma créativité avec méthode.  
+
+Ma vie associative enrichit mon parcours,  
+Google Club, journalisme, et bien d’autres détours.  
+Leadership, adaptabilité, et esprit d’équipe,  
+Ce sont mes forces, dans chaque défi, je m’applique.  
+
+Je suis Taissir, curieuse et déterminée,  
+Prête à créer, à apprendre et à innover.  
+Avec des projets qui illuminent mon avenir,  
+Je suis prête à réussir et à accomplir.
