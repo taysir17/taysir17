@@ -84,7 +84,7 @@
 ### 📚 [Library Management System](https://github.com/taysir17/SOA-ESB-Project-Management)
 **Overview:** Manages book borrowings with seamless integration for user and book data.
 
-- **Tech Stack:** Node.js, SOAP
+- **Tech Stack:** Node.js, Python, SpringBoot
 
 ---
 
