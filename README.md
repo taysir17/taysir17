@@ -91,7 +91,9 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=taysir17&show_icons=true&theme=gruvbox" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=taysir17&theme=gruvbox" alt="GitHub Streak" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=taysir17&show_icons=true&theme=gruvbox" alt="GitHub Stats" /> 
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=taysir17&theme=gruvbox" alt="GitHub Streak" />
+</p>
 
 ---
 
