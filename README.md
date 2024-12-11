@@ -104,7 +104,13 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=taysir17&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=taysir17&theme=gruvbox" alt="GitHub Streak" />
+     <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=taysir17&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4CB9D9&hide_progress=true&text_color=58A6FF&langs_count=20&hide=Less,Tcl,Cython,Cmake,SCSS" 
+        alt="Top Languages" 
+        width="290" 
+    />
 </p>
+
 
 ---
 
