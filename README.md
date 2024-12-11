@@ -12,7 +12,6 @@
 - **Aspiration:** Building Innovative, Scalable Solutions 🚀
 - **Passion:** Entrepreneurship and creating impactful solutions
 - **Interests:** Sports (Football, Swimming), Writing Poetry
-- **Family:** The most important and precious part of my life
 
 ---
 
@@ -109,17 +108,7 @@
 
 ---
 
-## ✨ Fun Fact
-> "First, solve the problem. Then, write the code." – John Johnson
-
----
-
-## 📜 Poetic Note
-> *"Rien n’est plus puissant qu’une idée dont l’heure est venue"* – Victor Hugo
-
----
-
-## 📝 Personal Note
+## 📝 Personal Poetic Note
 Je suis Taissir, une âme ambitieuse,  
 Étudiante en informatique, curieuse et sérieuse.  
 En troisième année, je construis mon chemin,  
