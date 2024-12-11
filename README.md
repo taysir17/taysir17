@@ -53,6 +53,17 @@
 
 ---
 
+## 📝 Experience
+
+### Life-Fly Idea and Experience
+**Overview:** Life-Fly is an innovative idea aimed at creating drones for transporting precious items and a robot to assist in medical emergencies. This project embodies my passion for entrepreneurship and my drive to create impactful solutions.
+
+- **Concept:** Develop drones for secure transportation of valuable items and a robot for medical emergency assistance.
+- **Experience:** Participated in various hackathons, summer camps, and entrepreneurship programs like PEEC, where I honed my skills in innovation and collaboration.
+- **Achievements:** Successfully pitched the Life-Fly idea in multiple forums, receiving positive feedback and valuable insights for further development.
+
+---
+
 ## 🛠️ Projects
 
 ### 🚀 [Jobify - Recruitment Platform](https://github.com/taysir17/Jobify)
@@ -91,8 +102,9 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=taysir17&show_icons=true&theme=gruvbox" alt="GitHub Stats" /> 
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=taysir17&theme=gruvbox" alt="GitHub Streak" />
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=taysir17&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=taysir17&theme=gruvbox" alt="GitHub Streak" />
 </p>
 
 ---
