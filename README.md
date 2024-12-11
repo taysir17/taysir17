@@ -171,3 +171,4 @@ Je suis Taissir, curieuse et déterminée,
 Prête à créer, à apprendre et à innover.  
 Avec des projets qui illuminent mon avenir,  
 Je suis prête à réussir et à accomplir.
+> – Bouzidi Taissir
