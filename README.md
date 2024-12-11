@@ -109,14 +109,13 @@
         alt="Top Languages" 
         width="290" 
     />
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img 
-            src="https://github-profile-trophy.vercel.app/?username=taysir17&theme=darkhub&no-frame=true&column=8&margin-w=15&margin-h=15" 
+            src="https://github-profile-trophy.vercel.app/?username=taysir17&theme=gruvbox&no-frame=true&column=4&margin-w=15&margin-h=15" 
             alt="Trophy Showcase" 
         />
     </a>
 </div>
-
 
 ---
 
