@@ -18,7 +18,7 @@
 ## 🌐 Connect with Me
 - 📫 Email: [taysirbouzidi123@gmail.com](mailto:taysirbouzidi123@gmail.com)
 - 📫 Work Email: [taysir.bouzidi@protonmail.com](mailto:taysir.bouzidi@protonmail.com)
-- 🌐 **My Resume**
+- 🌐 My Resume
     - [ATS-Compatible CV](https://github.com/taysir17/taysir17/blob/main/BouzidiTaissir_Academic_CV.pdf)
 - 📱 Social:
   - [LinkedIn](https://www.linkedin.com/in/bouzidi-taissir/)
