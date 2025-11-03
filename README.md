@@ -22,8 +22,6 @@
     - [ATS-Compatible CV](https://github.com/taysir17/taysir17/blob/main/BouzidiTaissir_Academic_CV.pdf)
 - 📱 Social:
   - [LinkedIn](https://www.linkedin.com/in/bouzidi-taissir/)
-  - [Facebook](https://www.facebook.com/taysir.bouzidi)
-  - [Instagram](https://www.instagram.com/bouzidi_taissir/)
 
 ---
 
